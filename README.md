@@ -1,2 +1,2 @@
 # Recipes
-A simple project created to be used as practice with basic HTML.
+A simple project created to be used as practice with basic HTML and CSS.
